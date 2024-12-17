@@ -349,4 +349,4 @@ Standard procedures for:
 3. Security incidents
 4. Data consistency problems
 
-This documentation provides a comprehensive overview of the University Distributed Database System. For specific implementation details or customization requirements, please consult the development team or system administrator.
+This documentation provides a comprehensive overview of the University Distributed Database System.
